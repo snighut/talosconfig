@@ -19,7 +19,6 @@ This homelab setup consists of:
 - **`README.md`** - This documentation file
 
 ## Purpose
-api_key = 'dwadawdawddwadd';
 This repository serves as a centralized location to store and manage:
 - Talos cluster access credentials
 - Node configuration templates
